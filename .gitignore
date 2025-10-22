@@ -1,0 +1,14 @@
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+*.env
+*.log
+.DS_Store
+data/response_log.csv  # Regenerated on runtime
+__init__.py
+config.bat
+node_modules
