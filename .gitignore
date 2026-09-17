@@ -11,3 +11,4 @@ venv/
 data/response_log.csv  # Regenerated on runtime
 __init__.py
 node_modules
+config.bat
